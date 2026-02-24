@@ -1,13 +1,13 @@
-# Cat Passport Design System v2.0
+# Furwise Design System v2.0
 
-貓咪護照 APP 的設計系統，包含 design tokens 與 component spec baseline。
+Furwise APP 的設計系統，包含 design tokens 與 component spec baseline。
 
 ## Files
 
 | File | Purpose |
 |---|---|
-| `cat-passport-design-system.json` | Design tokens + component specs (single source of truth) |
-| `cat-passport-design-system.html` | Visual documentation with live previews + spec tables |
+| `furwise-design-system.json` | Design tokens + component specs (single source of truth) |
+| `furwise-design-system.html` | Visual documentation with live previews + spec tables |
 
 ## For Engineers
 

@@ -1,11 +1,11 @@
 {
   "meta": {
-    "name": "Cat Passport Design System",
-    "localizedName": "貓咪護照",
+    "name": "Furwise Design System",
+    "localizedName": "Furwise",
     "version": "2.0.0",
     "platform": "mobile",
     "createdAt": "2026-02-23",
-    "description": "Design tokens and component specifications for the Cat Passport mobile application, derived from Figma design analysis."
+    "description": "Design tokens and component specifications for the Furwise mobile application, derived from Figma design analysis."
   },
 
   "_mergeNotes": {
