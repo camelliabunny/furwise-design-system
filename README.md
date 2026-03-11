@@ -57,6 +57,6 @@ Designer updates Figma
 
 ## Tech Stack
 
-- **Font:** Inter (Latin) + 源柔ゴシック Gen Jyuu Gothic (CJK)
+- **Font:** Inter (Latin) + 源柔ゴシック Gen Jyuu Gothic P (CJK)
 - **Icons:** Iconly Pro
 - **Platform:** iOS (Swift)

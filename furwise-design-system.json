@@ -18,7 +18,7 @@
       "bodyName weight Bold→SemiBold, cardTitleBold removed (merged into cardTitle)",
       "Duplicate color definitions annotated with ref to source token",
       "Typography typeScale restructured from 16 semantic tokens to 7 size×weight tokens. Color removed from type tokens (determined by component context).",
-      "Font families updated: Inter for Latin, 源柔ゴシック (Gen Jyuu Gothic) for CJK text",
+      "Font families updated: Inter for Latin, 源柔ゴシック (Gen Jyuu Gothic P) for CJK text",
       "Added 18 new mobile-friendly components: avatar, avatarGroup, badge, switchToggle, radioGroup, checkbox, dialog, toast, skeleton, separator, spinner, textarea, select, accordion, emptyState, slider, tabs, buttonGroup, toggle",
       "v2.0: Component specs restructured as baseline with token references for diffing"
     ]
@@ -101,9 +101,9 @@
   "typography": {
     "fontFamilies": {
       "latin": "Inter",
-      "cjk": "Gen Jyuu Gothic, 源柔ゴシック",
-      "fallbackStack": "'Inter', 'Gen Jyuu Gothic', '源柔ゴシック', 'Noto Sans JP', 'Noto Sans TC', -apple-system, sans-serif",
-      "_note": "English/numbers use Inter. Chinese/Japanese text uses 源柔ゴシック (Gen Jyuu Gothic). Noto Sans JP/SC as fallback for missing CJK glyphs."
+      "cjk": "Gen Jyuu Gothic P, 源柔ゴシック",
+      "fallbackStack": "'Inter', 'Gen Jyuu Gothic P', '源柔ゴシック', 'Noto Sans JP', 'Noto Sans TC', -apple-system, sans-serif",
+      "_note": "English/numbers use Inter. Chinese/Japanese text uses 源柔ゴシック (Gen Jyuu Gothic P). Noto Sans JP/SC as fallback for missing CJK glyphs."
     },
 
     "fontWeights": {
@@ -117,7 +117,7 @@
 
     "typeScale": {
       "title": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 700,
         "fontWeightName": "Bold",
         "fontSize": 24,
@@ -125,7 +125,7 @@
         "usage": "Page titles (登錄貓咪資訊, etc.)"
       },
       "heading": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 600,
         "fontWeightName": "SemiBold",
         "fontSize": 16,
@@ -133,7 +133,7 @@
         "usage": "Section headers (喵喵喵的紀錄, etc.)"
       },
       "subtitle": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 600,
         "fontWeightName": "SemiBold",
         "fontSize": 14,
@@ -141,7 +141,7 @@
         "usage": "Subheaders, names, data values (建議, 喵喵喵, 200g)"
       },
       "body": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 500,
         "fontWeightName": "Medium",
         "fontSize": 14,
@@ -149,7 +149,7 @@
         "usage": "Buttons, emphasized body text (下一步, 調整內容與順序)"
       },
       "body-sm": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 500,
         "fontWeightName": "Medium",
         "fontSize": 12,
@@ -157,7 +157,7 @@
         "usage": "Labels, card titles (貓咪名字, 每月體重紀錄)"
       },
       "body-xs": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 400,
         "fontWeightName": "Regular",
         "fontSize": 12,
@@ -165,7 +165,7 @@
         "usage": "Body text, links, descriptions (晶片號碼, 立刻紀錄)"
       },
       "caption": {
-        "fontFamily": "Inter, Gen Jyuu Gothic, 源柔ゴシック",
+        "fontFamily": "Inter, Gen Jyuu Gothic P, 源柔ゴシック",
         "fontWeight": 400,
         "fontWeightName": "Regular",
         "fontSize": 10,
